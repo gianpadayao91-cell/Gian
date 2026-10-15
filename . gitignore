@@ -1,0 +1,112 @@
+# ─── Operating System Files ───
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Thumbs.db:encryptable
+desktop.ini
+Desktop.ini
+
+# ─── Code Editor / IDE ───
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+.project
+.settings/
+*.user
+*.suo
+
+# ─── Temporary & Log Files ───
+*.log
+*.tmp
+*.temp
+*.bak
+*.cache
+*.pid
+*.seed
+*.dmp
+
+# ─── Node.js / Package Managers (if added later) ───
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+.npmrc
+.yarnrc
+.pnpm-debug.log
+
+# ─── Build / Output Folders ───
+dist/
+build/
+_output/
+out/
+*.min.css
+*.min.js
+
+# ─── Private / Sensitive Files ───
+.env
+.env.local
+.env.*.local
+*.env
+secrets.json
+config.json
+*.key
+*.pem
+
+# ─── C++ / Compiled Files ───
+*.o
+*.out
+*.app
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.ilk
+*.pdb
+*.dSYM/
+*.gch
+*.pch
+*.dwo
+
+# ─── CMake / Build Tools ───
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+install_manifest.txt
+compile_commands.json
+build/
+Build/
+build-*/
+vcpkg_installed/
+
+# ─── Fortran (if used) ───
+*.mod
+*.smod
+*.lai
+*.la
+
+# ─── Test & Cache ───
+Testing/
+.cache/
+__pycache__/
+*.pyc
+
+# ─── Archive / Backup Files ───
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.tar
+*.bak
+*.backup

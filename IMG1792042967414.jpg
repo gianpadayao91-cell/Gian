@@ -1,0 +1,8 @@
+<!-- === GIAN'S PROFILE PHOTO === -->
+<div class="monogram">
+  <img 
+    src="PASTE_YOUR_UPLOADED_IMAGE_LINK_HERE" 
+    alt="Gian Padayao" 
+    class="profile-photo"
+    loading="lazy">
+</div>

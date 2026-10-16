@@ -4,7 +4,7 @@ Computer Science student at Catanduanes State University.
 
 ## View the portfolio
 
-[**Open the live HTML portfolio →**](https://gianpadayao91-design.github.io/Gian-Padayao/)
+[**Open the live HTML portfolio →**](https://gianpadayao91-cell.github.io/Gian/)
 
 A modern, responsive portfolio with About, Skills, Projects, and Contact sections.
 
